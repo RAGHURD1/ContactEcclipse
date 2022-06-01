@@ -3,7 +3,7 @@ package com.crm.Campaign;
 import org.testng.annotations.Test;
 
 public class CampaignTest {
-	//SmokeTesting
+	//Smoke
 	
 	@Test(groups={"SmokeTest"})
 	public void createCampaignTest() {
