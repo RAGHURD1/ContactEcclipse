@@ -3,7 +3,8 @@ package com.crm.practise;
 import org.testng.annotations.Test;
 
 public class ContactTest {
-	//raghu
+	//raghurd
+	//jp
 	
 	@Test(groups={"SmokeTest"})
 	public void createCustomerTest() {
