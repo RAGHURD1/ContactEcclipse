@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 public class CampaignTest {
 	//Smoke
+	//jp
 	
 	@Test(groups={"SmokeTest"})
 	public void createCampaignTest() {
