@@ -6,6 +6,7 @@ public class CampaignTest {
 	//Smoke
 	//raghu
 	//rd
+	//jp
 	
 	@Test(groups={"SmokeTest"})
 	public void createCampaignTest() {
